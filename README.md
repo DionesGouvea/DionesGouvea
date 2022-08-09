@@ -6,8 +6,11 @@ GitHub Logo
 🎮 Gamer lover.
 🌱
 👩‍🎓 Information Systems - FIT
+
 🎓 Data Scientist - UNIDERP
+
 🍾 Applied Data Science with Python - University of Michigan.
+
 
 # Skills 👩‍💻
 🐍 Python.
