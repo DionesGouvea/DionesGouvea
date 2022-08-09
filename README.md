@@ -3,8 +3,11 @@ GitHub Logo
 
 # Who am I?
 👩‍💻 Data Scientist .
+
 🎮 Gamer lover.
+
 🌱
+
 👩‍🎓 Information Systems - FIT
 
 🎓 Data Scientist - UNIDERP
@@ -14,9 +17,13 @@ GitHub Logo
 
 # Skills 👩‍💻
 🐍 Python.
+
 🗄 SQL.
+
 🧮 Power BI.
+
 🔮 Machine Learning.
+
 
 
 # Find me around the world 🌎
