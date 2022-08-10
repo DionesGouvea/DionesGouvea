@@ -2,34 +2,34 @@
 GitHub Logo
 
 # Who am I?
-👩‍💻 Data Scientist .
+- 👩‍💻 Data Scientist .
 
-🎮 Gamer lover.
+- 🎮 Gamer lover.
 
-🌱
+- 🌱
 
-👩‍🎓 Information Systems - FIT
+- 👩‍🎓 Information Systems - FIT
 
-🎓 Data Scientist - UNIDERP
+- 🎓 Data Scientist - UNIDERP
 
-🍾 Applied Data Science with Python - University of Michigan.
+- 🍾 Applied Data Science with Python - University of Michigan.
 
 
 # Skills 👩‍💻
-🐍 Python.
+- 🐍 Python.
 
-🗄 SQL.
+- 🗄 SQL.
 
-🧮 Power BI.
+- 🧮 Power BI.
 
-🔮 Machine Learning.
+- 🔮 Machine Learning.
 
 
 
 # Find me around the world 🌎
-Linkedin
+- Linkedin
 
-Medium
+- Medium
 
 # My projects
 
