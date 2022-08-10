@@ -28,6 +28,7 @@ GitHub Logo
 
 # Find me around the world 🌎
 Linkedin
+Medium
 
 # My projects
 
