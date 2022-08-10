@@ -1,4 +1,3 @@
-# Hi, I'm Diones 👩‍💻 👋
 ![Banner](https://github.com/DionesGouvea/DionesGouvea/blob/main/template.jpg)
 
 # Who am I?
