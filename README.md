@@ -25,7 +25,7 @@
 
 
 
-# Find me around the world 🌎
+# Find me around the web 🌎
 - Linkedin
 
 - Medium
