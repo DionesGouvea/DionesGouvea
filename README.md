@@ -31,4 +31,5 @@
 - Medium
 
 # My projects
+Precificação de Salários para Profissionais de Dados 💸
 
