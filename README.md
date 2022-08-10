@@ -1,4 +1,4 @@
-![Banner](https://github.com/DionesGouvea/DionesGouvea/blob/main/template.jpg)
+![Banner](https://github.com/DionesGouvea/DionesGouvea/blob/main/template2.jpg)
 
 # Who am I?
 - 👩‍💻 Data Scientist .
