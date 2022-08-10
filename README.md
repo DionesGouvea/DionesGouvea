@@ -7,7 +7,7 @@
 
 - 🌱
 
-- 👨🎓 Information Systems - FIT
+- ℹ️ Information Systems - FIT
 
 - 🎓 Data Scientist - UNIDERP
 
