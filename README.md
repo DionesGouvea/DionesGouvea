@@ -5,7 +5,7 @@
 
 - 🎮 Gamer lover.
 
-- 🌱
+- 🗺️Traveling Is My Passion
 
 - ℹ️ Information Systems - FIT
 
