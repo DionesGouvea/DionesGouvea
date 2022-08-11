@@ -3,7 +3,7 @@
 # Who am I?
 - 👩‍💻 Data Scientist .
 
-- 🎮 Gamer lover.
+- 🎮 Gamer
 
 - 🎞️ love Sci-Fi movies
 
