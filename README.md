@@ -32,4 +32,9 @@
 
 # My projects
 Precificação de Salários para Profissionais de Dados 💸
+Previsão de churn dos clientes do Magazine Luiza usando Ensembles
+Clustering com base de Clientes do Ifood 
+Classificação para identificar fraudes usando Nvdia
+
+
 
