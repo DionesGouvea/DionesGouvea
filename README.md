@@ -5,7 +5,7 @@
 
 - 🎮 Gamer lover.
 
-- 🗺️Traveling is my passion
+- 🎞️love Sci-Fi movies
 
 - ℹ️ Information Systems - FIT
 
