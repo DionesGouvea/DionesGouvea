@@ -5,7 +5,7 @@
 
 - 🎮 Gamer
 
-- 🎞️ love Sci-Fi movies
+- 🎞️ Love Sci-Fi movies
 
 - ℹ️ Information Systems - FIT
 
