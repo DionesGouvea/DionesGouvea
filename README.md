@@ -35,7 +35,7 @@
 
 
 # My projects
-- Precificação de Salários para Profissionais de Dados 💸
+- [Precificação de Salários para Profissionais de Dados 💸](https://github.com/DionesGouvea/Salary-Prediction)
 - Previsão de churn dos clientes do Magazine Luiza usando Ensembles
 - Clustering com base de Clientes do Ifood 
 - Classificação para identificar fraudes usando Nvdia
