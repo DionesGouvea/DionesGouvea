@@ -35,10 +35,10 @@
 
 
 # My projects
-- [Precificação de Salários para Profissionais de Dados 💸](https://github.com/DionesGouvea/Salary-Prediction)
-- Previsão de churn dos clientes do Magazine Luiza usando Ensembles
-- Clustering com base de Clientes do Ifood 
-- Classificação para identificar fraudes usando Nvdia
+- [Precificação de Salários para Profissionais de Dados 💸](https://github.com/DionesGouvea/Salary-Prediction) - Trabalhando nisto👷🏼‍♂️ 
+- Previsão de churn dos clientes do Magazine Luiza usando Ensembles - Em breve!
+- Clustering com base de Clientes do Ifood - Em breve!
+- Classificação para identificar fraudes usando Nvdia - Em breve!
 
 
 
