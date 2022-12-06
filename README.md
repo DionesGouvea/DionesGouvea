@@ -35,7 +35,7 @@
 
 # My projects
 - [Precificação de Imóveis - Desafio QuintoAndar 🏚️](https://github.com/DionesGouvea/House-Price-Prediction-QuintoAndar) - ✅ 
-- Classificação para identificar fraudes usando GPU - ```Trabalhando nisto```👷🏼‍♂️ 
+- [Identificação de Fraudes em operações bancarias](https://github.com/DionesGouvea/Identificacao-de-fraudes) ```Trabalhando nisto```👷🏼‍♂️ 
 - Previsão de churn dos clientes do Magazine Luiza usando Ensembles - ```Em breve!```
 - Clustering com base de Clientes do Ifood - ```Em breve!```
 
