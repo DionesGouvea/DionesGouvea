@@ -35,7 +35,7 @@
 
 
 # My projects
-- [Selecionando clientes mais propensos a adquirir um produto apos campanha de marketing](https://github.com/DionesGouvea/propensao_compra)```Trabalhando nisto```👷
+- [Selecionando clientes mais propensos a adquirir um produto apos campanha de marketing](https://github.com/DionesGouvea/propensao_compra)✅
 - [Precificação de Imóveis - Desafio QuintoAndar 🏚️](https://github.com/DionesGouvea/House-Price-Prediction-QuintoAndar) - ✅ ``` Necessita de Retreino```
 - [Identificação de Fraudes em operações bancarias 🕵️](https://github.com/DionesGouvea/Identificacao-de-fraudes) ```Trabalhando nisto```👷🏼‍♂️ 
 - Previsão de churn dos clientes do Magazine Luiza - Desafio Luizalabs ```Em breve!```
