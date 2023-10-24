@@ -35,12 +35,13 @@
 
 
 # My projects
+- [Segmentação de Clientes do iFood - Desvendando o Comportamento dos Clientes 🧩](https://github.com/DionesGouvea/Ifood) ```Trabalhando nisto```👷🏼‍♂️
 - [Selecionando clientes mais propensos a adquirir um produto apos campanha de marketing🎯](https://github.com/DionesGouvea/propensao_compra)✅
 - [Previsão de vendas com Séries Temporais (Competição)📈](https://github.com/DionesGouvea/Store_Sales-Time_Series_Forecasting)✅
 - [Precificação de Imóveis - Desafio QuintoAndar 🏚️](https://github.com/DionesGouvea/House-Price-Prediction-QuintoAndar) - ✅ ``` Necessita de Retreino```
 - [Identificação de Fraudes em operações bancarias 🕵️](https://github.com/DionesGouvea/Identificacao-de-fraudes) ```Trabalhando nisto```👷🏼‍♂️ 
 - Previsão de churn dos clientes do Magazine Luiza - Desafio Luizalabs ```Em breve!```
-- Clustering com base de Clientes do Ifood - ```Em breve!```
+ - ```Em breve!```
 
 
 
